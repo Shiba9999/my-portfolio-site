@@ -86,19 +86,19 @@ let resumeData = {
       },
       {
         "name":"Resume Builder",
-        "description":"mobileapp",
+        "description":"To Build Resume",
         "imgurl":"images/portfolio/resume.png",
         "link":"https://resume-builder-cb251.web.app/"
       },
       {
         "name":"Shopping WebSite",
-        "description":"mobileapp",  
+        "description":"For Shopping",  
         "imgurl":"images/portfolio/shopping.png",
         "link":"https://shopping-site-frontend.herokuapp.com/"
       },
       {
         "name":" Reels web app",
-        "description":"mobileapp",
+        "description":"For Watching Short Videos",
         "imgurl":"images/portfolio/reels.png",
         "link":"https://insta-reel-app.herokuapp.com/"
       }

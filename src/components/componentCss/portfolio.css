@@ -1,7 +1,7 @@
 .GFG {
     background-color: white;
     border: 2px solid black;
-    color: #9CA3AF;
+    color: #F87171;
     padding: 5px 10px;
     text-align: center;
     display: inline-block;
@@ -9,4 +9,5 @@
     margin: 10px 30px;
     cursor: pointer;
     margin-left: 45px;
+    border: none;
 }
