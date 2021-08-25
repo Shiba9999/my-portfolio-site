@@ -29,7 +29,7 @@ export default class Porfolio extends Component {
                         </a>
                       </div>
                       <a href={item.link}>
-                        <button class="GFG">Click me </button>
+                        <button class="myButton">Click me </button>
                       </a>
                     </div>
                   );
