@@ -18,8 +18,8 @@ let resumeData = {
         },
         {
           "name":"twitter",
-          "url":"https://twitter.com/shiba995",
-          "className":"fa fa-twitter"
+          "url":"mailto:rp.shiba2@gmail.com",
+          "className":"fa fa-envelope"
           // "fa-solid fa-envelope"
         }
       ],
