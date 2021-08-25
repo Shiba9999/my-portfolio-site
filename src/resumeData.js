@@ -31,14 +31,14 @@ let resumeData = {
         "UniversityName":"Indira Gandhi Institute Of Technology, Sarang",
         "specialization":"Computer Science Engineering",
         "MonthOfPassing":"july",
-        "YearOfPassing":"2021",
+        "YearOfPassing":"2017-2021",
         "Achievements":"Some Achievements"
       },
       {
         "UniversityName":"Ravenshaw Junior College",
         "specialization":"science",
         "MonthOfPassing":"april",
-        "YearOfPassing":"2016",
+        "YearOfPassing":"2014-2016",
         "Achievements":"Some Achievements"
       }
     ],
