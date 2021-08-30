@@ -69,6 +69,9 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"javascript"
+      },
+      {
         "skillname":"Reactjs"
       }, {
         "skillname":"firebase"
@@ -100,7 +103,7 @@ let resumeData = {
         "name":" Reels web app",
         "description":"For Watching Short Videos",
         "imgurl":"images/portfolio/reels.png",
-        "link":"https://insta-reel-app.herokuapp.com/"
+        "link":"https://reel-2.web.app"
       }
     ],
     "testimonials":[

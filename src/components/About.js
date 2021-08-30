@@ -20,7 +20,7 @@ export default class About extends Component {
                  resumeData.aboutme
                }
                </p>
-               <a href="https://drive.google.com/file/d/1d8Ej-T1J53yMJn_fh8ipJ8GK4FWiajw4/view?usp=sharing">
+               <a href="https://drive.google.com/file/d/13C3DICf4Z3le4zHvLet1tuMMdAjPMi6P/view?usp=sharing">
                <button>My Resume</button>
                </a>
               
