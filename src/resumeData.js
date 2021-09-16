@@ -104,6 +104,12 @@ let resumeData = {
         "description":"For Watching Short Videos",
         "imgurl":"images/portfolio/reels.png",
         "link":"https://reel-2.web.app"
+      },
+      {
+        "name":" MyChat",
+        "description":"For Communication ",
+        "imgurl":"images/portfolio/Mychat.png",
+        "link":"https://chat-app-9a74b.web.app/"
       }
     ],
     "testimonials":[
